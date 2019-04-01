@@ -1,0 +1,15 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px;
+
+    background-color: bisque;
+    border-top-right-radius: 600px;
+    border-top-left-radius: 600px;
+}
